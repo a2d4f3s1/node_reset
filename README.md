@@ -1,2 +1,15 @@
-# node_reset
-Add a button to the node side panel that resets the position of the selected node to [0,0].
+# Blender用のアドオンです。  
+ノードのサイドパネルに 選択中のNodeの位置を[0,0]にリセットするボタンを追加します。  
+  
+## 【導入方法】  
+[プリファレンス>アドオン>インストール] からzipを選択して下さい。  
+  
+## 【使用方法】  
+対象を選択して「ノード位置リセット」ボタンを推して下さい。  
+  
+## 【動作環境】  
+Blender3.6.19 で動作確認しました。  
+  
+## 【更新履歴】  
+#### [2025-02-16 0,0,1] リリース  
+  
